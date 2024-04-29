@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **FrontEnd , BackEnd**
 
-- 🌱 I’m currently learning **Nodejs, MondoDB etc**
+- 🌱 I’m currently learning **Nodejs, MongoDB etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kashanafzl](https://github.com/kashanafzl)
 
