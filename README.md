@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on **FrontEnd , BackEnd**
 
-- 🌱 I’m currently learning **Nodejs, MongoDB etc**
+- 🌱 I’m currently learning **Nodejs, MongoDB , AI , FrameWorks etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kashanafzl](https://github.com/kashanafzl)
 
-- 💬 Ask me about **Html Css Js Bootstrap Reactjs Vuejs**
+- 💬 Ask me about **Html Css Js Tailwind Bootstrap Firebase Reactjs Vuejs Animations**
 
 - 📫 How to reach me **kashanafzal2221@gmail.com**
 
-- 📄 Know about my experiences [2](2)
+- 📄 Know about my experiences [3](2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
